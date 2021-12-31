@@ -14,7 +14,6 @@ Please feel free to check out my repos! 💻
 <img src="./jumping_squidward.gif" alt="My depression is chronic, but this ass is iconic"/>
 </div>
 
-- ⚡ Fun fact: For some reason, while studying at the university, a friend blessed me with the nickname _Wapi_, and now that nickname has replaced my real name.
 
 <div align='center'>
 <a href="https://github.com/anuraghazra/github-readme-stats">
