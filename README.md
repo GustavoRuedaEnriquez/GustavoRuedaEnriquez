@@ -7,7 +7,6 @@ Please feel free to check out my repos!
 
 [<img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [linkedin]: https://www.linkedin.com/in/gustavo-rueda/
 [github]: https://github.com/GustavoRuedaEnriquez
