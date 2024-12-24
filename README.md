@@ -6,7 +6,7 @@
 [linkedin]: https://www.linkedin.com/in/gustavo-rueda/
 [github]: https://github.com/GustavoRuedaEnriquez
  
-I'm Gustavo, a software developer from Mexico 🇲🇽. I enjoy learning new things, programming languages and new technologies. I really like algorithms, web design and digital design.
+I'm Gustavo, a software developer from Mexico 🇲🇽. I enjoy learning new things, programming languages and new technologies. I really like algorithms, digital design and low-level development.
 
 Please feel free to check out my repos! 💻
 
